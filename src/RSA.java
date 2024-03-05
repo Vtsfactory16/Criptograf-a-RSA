@@ -7,7 +7,10 @@ import javax.crypto.BadPaddingException;
 import javax.crypto.Cipher;
 import javax.crypto.IllegalBlockSizeException;
 import javax.crypto.NoSuchPaddingException;
+/*
+    * Clase para gestionar la encriptación y desencriptación de texto mediante RSA.
 
+ */
 public class RSA {
 
     private PrivateKey privateKey = null;
