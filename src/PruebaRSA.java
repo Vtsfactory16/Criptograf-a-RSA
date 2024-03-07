@@ -2,8 +2,9 @@ import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
 import java.security.spec.InvalidKeySpecException;
 import java.util.Scanner;
-/*
-    * Clase para probar la encriptación y desencriptación de texto mediante RSA.
+
+/**
+ * Clase para probar la encriptación y desencriptación de texto mediante RSA.
  */
 public class PruebaRSA {
 
